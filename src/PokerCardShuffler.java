@@ -11,7 +11,7 @@ public class PokerCardShuffler extends JFrame{
 
     public PokerCardShuffler(){
         setTitle("Poker Card shuffler");
-        setSize(1536,1024);
+        setSize(1500,1024);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
         
